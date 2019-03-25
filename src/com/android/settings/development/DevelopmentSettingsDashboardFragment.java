@@ -528,6 +528,7 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new AutofillResetOptionsPreferenceController(context));
         controllers.add(new TrustAgentsExtendUnlockPreferenceController(context));
         controllers.add(new TrustLostLocksScreenPreferenceController(context));
+        controllers.add(new RestoreHostsPreferenceController(context));
         return controllers;
     }
 
