@@ -58,6 +58,7 @@ class TransportHelper {
                 if (name.equals(ignoredTransport)) ignored = true;
             }
             if (ignored) continue;
+
             CharSequence label = getLabelFromBackupTransport(name);
             if (label == null || label.length() == 0) label = name;
             Transport transport = new Transport(name, label, getSummaryFromBackupTransport(name));
