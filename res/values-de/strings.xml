@@ -4671,4 +4671,7 @@
     <string name="rtt_settings_no_visible" msgid="7440356831140948382"></string>
     <string name="rtt_settings_visible_during_call" msgid="7866181103286073700"></string>
     <string name="rtt_settings_always_visible" msgid="2364173070088756238"></string>
+    <string name="sensor_access_summary">Sensorzugriff von Benutzer-Apps kontrollieren</string>
+    <string name="sensor_access_title">Zugriff auf Sensoren</string>
+    <string name="sensor_access_title_empty_text">Keine installierte App hat Sensorzugriff angefordert.</string>
 </resources>
