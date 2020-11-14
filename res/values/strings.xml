@@ -11438,4 +11438,9 @@
     <string name="bluetooth_phonebook_access_dialog_title">Allow access to contacts and call log?</string>
     <!-- Bluetooth phonebook permission alert for dialog content [CHAR LIMIT=none] -->
     <string name="bluetooth_phonebook_access_dialog_content">An untrusted Bluetooth device, <xliff:g id="device_name" example="My device">%1$s</xliff:g>, wants to access your contacts and call log. This includes data about incoming and outgoing calls.\n\nYou haven\u2019t connected to <xliff:g id="device_name" example="My device">%2$s</xliff:g> before.</string>
+
+    <!-- Sensor AppOps -->
+    <string name="sensor_access_summary">Control sensor access for user apps</string>
+    <string name="sensor_access_title">Access to Sensors</string>
+    <string name="sensor_access_title_empty_text">No installed apps have requested sensors access.</string>
 </resources>
