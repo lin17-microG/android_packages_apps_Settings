@@ -475,6 +475,11 @@
     <item msgid="3779092145391320375">"Wie \"kostenpflichtig\" behandeln"</item>
     <item msgid="2047166446768045816">"Wie \"kostenlos\" behandeln"</item>
   </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item>"Immer zufällige MAC-Adresse verwenden (Standard)"</item>
+    <item>"Zufällige MAC-Adresse pro Netzwerk verwenden"</item>
+    <item>"MAC-Adresse des Geräts verwenden"</item>
+  </string-array>
   <string-array name="wifi_hidden_entries">
     <item msgid="342232116597649254">"Nein"</item>
     <item msgid="2163015208097377388">"Ja"</item>
