@@ -11443,4 +11443,5 @@
     <string name="sensor_access_summary">Control sensor access for user apps</string>
     <string name="sensor_access_title">Access to Sensors</string>
     <string name="sensor_access_title_empty_text">No installed apps have requested sensors access.</string>
+
 </resources>
